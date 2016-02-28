@@ -4,7 +4,7 @@ Twitterpated is a twitter app copy to showcase the skills learned in Codepath
 
 Time spent: **4** hours spent in total
 
-## User Stories
+Resources: David Wayman @r3dcrosse and Monte Thakkar @Monte9 github helped me with the OAuth, retweet and favorite counts. Eric Chu @EricSFChu helped with the compose page/ retweet page. It's still not completely implemented but without their githubs I wouldn't of been able to complete my project. Huge thank you to them!
 
 The following **required** functionality is completed:
 
